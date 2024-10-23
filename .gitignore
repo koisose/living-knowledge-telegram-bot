@@ -41,4 +41,3 @@ Dockerfile.dev
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-Dockerfile
